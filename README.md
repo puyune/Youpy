@@ -88,26 +88,12 @@ O script irá pedir o caminho da pasta onde o vídeo será salvo. Caso não forn
 4.5. Passo 5: Aguardar o Download
 O script começará a baixar o vídeo. Ao final do processo, será exibida uma mensagem indicando que o download foi concluído com sucesso.
 
-5. Exemplo de Execução
-Aqui está um exemplo de como a interação no terminal pode acontecer:
-
-Bem-vindo ao YouPy, seu instalador de vídeos!
-Cole o link do vídeo aqui: https://youtu.be/jnaAgLZIqT0
-Escolha o tipo de download:
-1. Vídeo e áudio em melhor qualidade
-2. Somente vídeo
-3. Somente áudio(mp3)
-Digite sua escolha (1, 2 ou 3): 1
-Digite o caminho da pasta onde deseja salvar o vídeo: /home/usuario/Downloads
-Baixando para a pasta: /home/usuario/Downloads
-Download concluído com sucesso!
-
-6. Licenciamento e Uso
+5. Licenciamento e Uso
 O código do YouPy é oferecido de forma gratuita para uso pessoal e educacional. Você pode distribuir livremente, desde que mantenha a integridade do código e não altere ou remova o aviso de licenciamento.
 
 A venda ou comercialização direta do código ou de qualquer parte dele é estritamente proibida. O YouPy pode ser compartilhado gratuitamente, mas não pode ser revendido ou distribuído como parte de produtos pagos.
 
-7. Considerações Finais
+6. Considerações Finais
 O YouPy é uma ferramenta simples e prática para quem deseja baixar vídeos do YouTube de forma rápida e flexível. Ele permite escolher a qualidade do conteúdo e o local de armazenamento. Se você tiver sugestões ou encontrar algum problema, sinta-se à vontade para modificar o código ou entrar em contato com o desenvolvedor.
 
 Criado por puyune | License: MIT
