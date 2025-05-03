@@ -69,4 +69,4 @@ Este projeto está aberto para contribuições! Se você encontrar algum bug ou 
 
 ## Licença
 
-Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
